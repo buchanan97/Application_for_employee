@@ -20,32 +20,32 @@ employee_4 = Employee_database("Christina williams","1067890",
                                "Qwrz90910!!", 150120.160, "Times Square", "active")
 print(employee_4.position)
 
-employee_5 = Employee_database("James Buchanan","1067890", 
+employee_5 = Employee_database("Elizabeth Johnson","1067890", 
                                "Senior dev ops manager", "jbuchanan@targetops.com", 
                                "Qwrz90910!!", 150120.160, "Times Square,", "not active")
 print(employee_5.generic_password)
 
-employee_6 = Employee_database("James Buchanan","1067890", 
+employee_6 = Employee_database("Raphael Saba","1067890", 
                                "Senior dev ops manager", "jbuchanan@targetops.com", 
                                "Qwrz90910!!", 150120.160, "Times Square", "not active")
 print(employee_6.office_name)
 
-employee_7 = Employee_database("James Buchanan","1067890", 
+employee_7 = Employee_database("Keenan Hammond","1067890", 
                                "Senior dev ops manager", "jbuchanan@targetops.com", 
                                "Qwrz90910!!", 150120.160, "Times Square","not active")
 print(employee_7.salary)
 
-employee_9 = Employee_database("James Buchanan","1067890", 
+employee_9 = Employee_database("Johnathan Purchase","1067890", 
                                "Senior dev ops manager", "jbuchanan@targetops.com", 
                                "Qwrz90910!!", 150120.160, "Times Square", "active")
 print(employee_9.active_user)
 
-employee_10 = Employee_database("James Buchanan","1067890", 
+employee_10 = Employee_database("Kyle Dennis","1067890", 
                                "Senior dev ops manager", "jbuchanan@targetops.com", 
                                "Qwrz90910!!", 150120.160, "Times Square","not active")
 print(employee_10.position)
 
-employee_11 = Employee_database("James Buchanan","1067890", 
+employee_11 = Employee_database("Joshua Robinson","1067890", 
                                "Senior dev ops manager", "jbuchanan@targetops.com", 
                                "Qwrz90910!!", 150120.160, "Times Square", "active")
 print(employee_11.salary)
